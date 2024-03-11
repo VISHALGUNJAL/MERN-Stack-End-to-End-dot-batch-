@@ -1,0 +1,42 @@
+/* body {
+    font-family: 'Arial', sans-serif;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: auto;
+    background-color: #f4f4f4;
+}
+
+.card {
+    width: auto;
+    background-color: #fff;
+    border-radius: atuo;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    width: auto;
+    height: auto;
+}
+
+.card-content {
+    padding: auto;
+}
+
+h3 {
+    margin: auto;
+    color: #333;
+}
+
+p {
+    margin: auto;
+    color: #666;
+} */
+
+#tagline{
+    font-style: strong;
+}
+}
